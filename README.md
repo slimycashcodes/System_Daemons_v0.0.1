@@ -1,12 +1,47 @@
-# React + Vite
+# RainServe India
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌧️ **RainServe India** is an interactive web application designed to help users assess rainwater harvesting potential based on local climate, roof type, and household data. It integrates multiple datasets to provide a comprehensive analysis and practical infrastructure recommendations for effective water management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Select from 30+ districts/cities with real rainfall, groundwater, soil, and aquifer data.
+- Calculate annual rainwater harvesting potential based on roof area and roof type.
+- View detailed assessment reports including:
+  - Harvest potential and efficiency rating
+  - Recommended storage structure and volume
+  - Local groundwater depth, soil type, and aquifer information
+  - Economic analysis including cost, savings, and payback period
+- Dark mode toggle for comfortable viewing.
+- Automatically loads and parses CSV datasets for up-to-date local conditions.
+- Responsive, clean UI with real-time report generation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+## Data Sources
+
+- Rainfall data by district
+- Groundwater depth data
+- Soil type data
+- Aquifer information
+
+All datasets are stored as CSV files in the `/public/data` folder for easy updating.
+
+---
+
+## Contributing
+
+Contributions and improvements are welcome! Feel free to open issues or pull requests.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+
+Made with 💧 for sustainable water solutions.
