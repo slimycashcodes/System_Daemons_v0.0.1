@@ -1,0 +1,20 @@
+District,State,Groundwater_Depth_m,Aquifer_Type
+North Goa,Goa,4.5,Laterite/Sandstone
+South Goa,Goa,6.0,Laterite/Alluvium
+East Khasi Hills,Meghalaya,6.5,Crystalline/Weathered/Fractured
+Leh,Ladakh,15.0,Alluvial/Moraine
+Kangra,Himachal Pradesh,7.0,Alluvium/Limestone
+Bangalore Urban,Karnataka,15.0,Granite/Gneiss/Basalt
+Wayanad,Kerala,4.0,Laterite/Crystalline
+Pune,Maharashtra,18.0,Basalt/Hard Rock
+Chennai,Tamil Nadu,7.0,Alluvium/Sandstone
+Kolkata,West Bengal,6.0,Alluvium
+Patna,Bihar,5.0,Alluvium
+Ranchi,Jharkhand,9.0,Hard Rock/Weathered
+Hyderabad,Telangana,12.0,Granite/Schist
+Bhubaneswar,Odisha,8.0,Laterite/Alluvium
+Ahmedabad,Gujarat,16.0,Alluvium/Basalt
+Thiruvananthapuram,Kerala,3.0,Laterite/Crystalline
+Lucknow,Uttar Pradesh,5.5,Alluvium
+Delhi,Delhi,14.0,Alluvium/Quartzite
+Chandigarh,Chandigarh,7.0,Alluvium

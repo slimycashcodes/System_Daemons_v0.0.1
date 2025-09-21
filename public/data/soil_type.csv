@@ -1,0 +1,20 @@
+District,State,Soil_Type,Infiltration_Coefficient
+North Goa,Goa,Sandy,0.9
+South Goa,Goa,Loamy,0.7
+East Khasi Hills,Meghalaya,Loamy,0.7
+Leh,Ladakh,Loamy,0.7
+Kangra,Himachal Pradesh,Clay,0.5
+Bangalore Urban,Karnataka,Loamy,0.7
+Wayanad,Kerala,Loamy,0.7
+Pune,Maharashtra,Sandy,0.9
+Chennai,Tamil Nadu,Clay,0.5
+Kolkata,West Bengal,Sandy,0.9
+Patna,Bihar,Loamy,0.7
+Ranchi,Jharkhand,Clay,0.5
+Hyderabad,Telangana,Clay,0.5
+Bhubaneswar,Odisha,Loamy,0.7
+Ahmedabad,Gujarat,Sandy,0.9
+Thiruvananthapuram,Kerala,Loamy,0.7
+Lucknow,Uttar Pradesh,Clay,0.5
+Delhi,Delhi,Sandy,0.9
+Chandigarh,Chandigarh,Clay,0.5
